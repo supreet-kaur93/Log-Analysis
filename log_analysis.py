@@ -1,7 +1,6 @@
 #! /usr/bin/env python
 # Importing psycopg2 from python standard library
 
-raw_input()
 import psycopg2
 
 DBNAME = "newsdata.article"
